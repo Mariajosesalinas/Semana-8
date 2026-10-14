@@ -519,3 +519,18 @@ modelsummary(
 
 # Comprobar que el archivo se haya creado.
 file.exists("data/processed/t3_tabla_ene.csv")
+
+
+## Declaración de autoría y uso de IA
+#Herramienta utilizada: ChatGPT.
+
+#Para qué la usé: Para resolver dudas sobre el código en R, comprender el 
+#funcionamiento de algunas funciones, identificar errores y revisar la redacción
+#de las explicaciones.
+
+#Qué hice yo: Desarrollé la tarea paso a paso, trabajé con los datos, ejecuté y 
+#revisé el código, participé en las decisiones del análisis y elaboré las 
+#interpretaciones de los resultados.
+
+#Verificación: Confirmo que entiendo y puedo explicar el código y los resultados
+#que entrego.
