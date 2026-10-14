@@ -69,7 +69,6 @@ tabla_coeficientes <- tidy(m2, conf.int = TRUE) |>
 # Mostrar la tabla
 tabla_coeficientes
 
-
 # A3. Comparación de los tres modelos
 # Descripción: organiza los modelos en una lista y compara
 # el número de observaciones, el R² y el R² ajustado,
